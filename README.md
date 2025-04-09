@@ -4,14 +4,14 @@
 
 Projekt "Zygzak McQueen" to robot sterowany za pomocą mikrokontrolera Arduino, który wykorzystuje serwomechanizm, czujniki odległości, wyświetlacz LCD oraz silniki do poruszania się. Robot może poruszać się autonomicznie lub być sterowany manualnie za pomocą komend wysyłanych przez port szeregowy.
 
-## Funkcjonalności
+## Funkcje
 
 - **Autonomiczna jazda**: Robot unika przeszkód dzięki czujnikowi odległości (IR sensor).
 - **Sterowanie manualne**: Możliwość sterowania robotem za pomocą komend z klawiatury (serial monitor).
 - **Pomiar temperatury, światła i poziomu wody**: Robot monitoruje temperaturę, poziom światła oraz odczyt z potencjometru i wyświetla te dane na wyświetlaczu LCD.
 - **Zmiana prędkości**: Prędkość robota może być zwiększana lub zmniejszana za pomocą komend.
 
-## Wymagania
+## Technologie
 
 - Arduino IDE
 - Biblioteka Servo
